@@ -1,0 +1,8 @@
+.mark-attendance-container {
+  text-align: center;
+  margin: 20px;
+}
+.mark-attendance-container video {
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
