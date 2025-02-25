@@ -1,0 +1,11 @@
+.average-calculation-container {
+  text-align: center;
+  margin: 20px;
+}
+.average-calculation-container ul {
+  list-style: none;
+  padding: 0;
+}
+.average-calculation-container li {
+  margin: 10px 0;
+}
